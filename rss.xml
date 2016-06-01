@@ -4,8 +4,15 @@
         <description><![CDATA[FASMA Festival]]></description>
         <link>https://thegrid.ai/fasma-festival/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 01 Jun 2016 23:20:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jun 2016 23:21:36 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/fasma-festival/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Minimal Variations: Nicola Ratti Interview]]></title>
+            <description><![CDATA[<article><h1>Minimal Variations: Nicola Ratti Interview</h1><p>Stray Landings is an electronic music site dedicated to bringing to light the best in forward thinking new producers. We will regularly be reviewing tracks we feel stand out as original, unique and deserving of more attention. We will also be providing guest podcasts to showcase new music, interviews with upcoming artists and articles on current issues within the scene.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2fd5f2dd1f8dc11acbfad51f6bee4b73199bf6ff.jpg"></article>]]></description>
+            <link>http://straylandings.co.uk/interviews/minimal-variations-nicola-ratti-interview</link>
+            <guid isPermaLink="false">e2eed00a-f0eb-44fa-9e1d-528b92802905</guid>
+            <pubDate>Wed, 01 Jun 2016 23:20:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[FASMA Festival]]></title>
             <description><![CDATA[<article><h1>FASMA Festival</h1><p>FASMA ("φάσμα"~fásma) is the greek word for spectrum, i.e. a condition that can be limited to a specific set of values but can also vary infinitely within a continuum. FASMA festival is a collective attempt to show the prism within which today's music manifests itself.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5575b48db4e41b24bac35e27fc39e20ac8587f77.jpg"></article>]]></description>
@@ -19,6 +26,13 @@
             <link>https://www.facebook.com/media/set/?set=a.995837600509936.1073741835.489753014451733&amp;type=3</link>
             <guid isPermaLink="false">7d4a690a-567f-460c-b312-74fcba82081b</guid>
             <pubDate>Wed, 01 Jun 2016 23:20:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Top 10 April 2016 Festivals]]></title>
+            <description><![CDATA[<article><h1>Top 10 April 2016 Festivals</h1><p>We see what's looking good around the world this April.</p><img src="http://www.residentadvisor.net/images/features/2016/top10-april-2016-list.jpg"></article>]]></description>
+            <link>https://www.residentadvisor.net/features/2581</link>
+            <guid isPermaLink="false">b6a1c555-26a6-4d77-9347-816079add76c</guid>
+            <pubDate>Wed, 01 Jun 2016 23:20:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -60,13 +74,6 @@
             <link>https://www.youtube.com/watch?v=QBuzBqNcxeg</link>
             <guid isPermaLink="false">41c22ab8-dc87-49a7-be4d-dc2a7fbcf724</guid>
             <pubDate>Wed, 01 Jun 2016 23:04:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/efee1334-2b16-49bd-95d0-4a7ed4c38529.png">]]></description>
-            <link>https://thegrid.ai/fasma-festival/bcdacec4-b42f-4d9d-be99-d9c368b6a290/index.html</link>
-            <guid isPermaLink="false">bcdacec4-b42f-4d9d-be99-d9c368b6a290</guid>
-            <pubDate>Wed, 01 Jun 2016 23:01:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
