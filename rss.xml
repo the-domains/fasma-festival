@@ -4,8 +4,15 @@
         <description><![CDATA[FASMA Festival]]></description>
         <link>https://thegrid.ai/fasma-festival/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 01 Jun 2016 23:35:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jun 2016 23:35:22 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/fasma-festival/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[FASMA Podcast #04 - Sawf by FASMA Festival]]></title>
+            <description><![CDATA[<article><h1>FASMA Podcast #04 - Sawf by FASMA Festival</h1><p>Sawf is, without a doubt, Greece's most prolific techno dj and producer. A musician of rare caliber mixing pretty much anything yet retaining his personal signature at all times. He will be closing the festival blasting apart anything still standing wrecking what is left of Vyrsodepsio on Saturday April the 9th.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/12d8ca4be93e8e8064ff809062918006c7d3b761.jpg"></article>]]></description>
+            <link>https://soundcloud.com/fasma-festival/fasma-podcast-4-sawf</link>
+            <guid isPermaLink="false">62d337fe-c626-4e74-aa12-3b7e4a33bc2b</guid>
+            <pubDate>Wed, 01 Jun 2016 23:34:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[FASMA Podcast #03 Jesse Osborne-Lanthier | +19% Chance Of Preemptive Strike Mix by FASMA Festival]]></title>
             <description><![CDATA[<article><h1>FASMA Podcast #03 Jesse Osborne-Lanthier | +19% Chance Of Preemptive Strike Mix by FASMA Festival</h1><p>A special gift from an outstanding musician. Jesse Osborne-Lanthier celebrates his birthday with an inspiring mix for Fasma Festival. With upcoming releases at Raster Noton and Halcyon Veil, Jesse will be performing live at the Where To Now? Label Showcase at six dogs on the 8th of April 2016 Tracklist: 01- Rabit - Regret (Upcoming) 02- Weightausend - Meet Your Doom!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1d9a1843616d5f8a9fca16cf096ebcfbaf2ec791.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://soundcloud.com/fasma-festival</link>
             <guid isPermaLink="false">4aae9958-e8a9-418f-b690-fcebf491bfce</guid>
             <pubDate>Wed, 01 Jun 2016 23:20:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img alt="7-9 April 2016 Credits to @[788422703:2048:Thanasis Karatzas], @[1201753666:2048:Ria Carajiaba], @[1455591535:2048:Thomas] Oflis, @[1036019821:2048:Vaggelis Fasoulopoulos]" src="https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/13015490_995837830509913_4156545309239538680_n.jpg?oh=9a871881fd5a6e8cd7242cd07418050c&oe=57E2C6C6">]]></description>
-            <link>https://www.facebook.com/media/set/?set=a.995837600509936.1073741835.489753014451733&amp;type=3</link>
-            <guid isPermaLink="false">7d4a690a-567f-460c-b312-74fcba82081b</guid>
-            <pubDate>Wed, 01 Jun 2016 23:20:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
