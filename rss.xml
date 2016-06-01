@@ -4,8 +4,15 @@
         <description><![CDATA[FASMA Festival]]></description>
         <link>https://thegrid.ai/fasma-festival/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 01 Jun 2016 23:21:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jun 2016 23:24:57 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/fasma-festival/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[JESSE OSBORNE-LANTHIER]]></title>
+            <description><![CDATA[<article><h1>JESSE OSBORNE-LANTHIER</h1><p>JESSE OSBORNE-LANTHIER @ HAUNTER - MACAO - 18 MAR 2016 - MILANO - ITALY</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f45493411dc4b80ead4e251cddfe441d703d5d87.jpg"></article>]]></description>
+            <link>http://www.ursss.com/2016/04/jesse-osborne-lanthier/</link>
+            <guid isPermaLink="false">e6e6a5d5-c472-4bd8-8c5b-2e5d7334534a</guid>
+            <pubDate>Wed, 01 Jun 2016 23:24:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Minimal Variations: Nicola Ratti Interview]]></title>
             <description><![CDATA[<article><h1>Minimal Variations: Nicola Ratti Interview</h1><p>Stray Landings is an electronic music site dedicated to bringing to light the best in forward thinking new producers. We will regularly be reviewing tracks we feel stand out as original, unique and deserving of more attention. We will also be providing guest podcasts to showcase new music, interviews with upcoming artists and articles on current issues within the scene.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2fd5f2dd1f8dc11acbfad51f6bee4b73199bf6ff.jpg"></article>]]></description>
@@ -29,7 +36,7 @@
         </item>
         <item>
             <title><![CDATA[Top 10 April 2016 Festivals]]></title>
-            <description><![CDATA[<article><h1>Top 10 April 2016 Festivals</h1><p>We see what's looking good around the world this April.</p><img src="http://www.residentadvisor.net/images/features/2016/top10-april-2016-list.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Top 10 April 2016 Festivals</h1><p>We see what's looking good around the world this April.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a6151516d9f61542ae57b043ae88378e4dd8a6ea.jpg"></article>]]></description>
             <link>https://www.residentadvisor.net/features/2581</link>
             <guid isPermaLink="false">b6a1c555-26a6-4d77-9347-816079add76c</guid>
             <pubDate>Wed, 01 Jun 2016 23:20:31 GMT</pubDate>
@@ -67,13 +74,6 @@
             <link>http://www.fasmafestival.com/</link>
             <guid isPermaLink="false">62c723c7-0ed0-419a-91a7-b16e9f307ad5</guid>
             <pubDate>Wed, 01 Jun 2016 23:04:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[FASMA Festival 2016 // after video]]></title>
-            <description><![CDATA[<article><h1>FASMA Festival 2016 // after video</h1><p>video: J audio: Sawf - Sonic 3</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ab576168acdad2764d97670a0bb888867247280d.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=QBuzBqNcxeg</link>
-            <guid isPermaLink="false">41c22ab8-dc87-49a7-be4d-dc2a7fbcf724</guid>
-            <pubDate>Wed, 01 Jun 2016 23:04:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
