@@ -4,8 +4,15 @@
         <description><![CDATA[FASMA Festival]]></description>
         <link>https://thegrid.ai/fasma-festival/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 01 Jun 2016 23:35:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jun 2016 23:35:24 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/fasma-festival/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Kyklophonon_I]]></title>
+            <description><![CDATA[<article><h1>Kyklophonon_I</h1><p>Kyklophonon: a frequency pattern generator. concept and development: Michalis Shammas tutor: Apostolos Kalfopoulos blacksmith: Iakovos Karageorgiadis friendly assistance: Makis, Zappo filming and editing: Demetris Shammas</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ce4666be5d905065160304c3607d41b178af5499.jpg"></article>]]></description>
+            <link>https://vimeo.com/142541512</link>
+            <guid isPermaLink="false">8860943e-25bf-4cd2-aa74-bacc2f37c216</guid>
+            <pubDate>Wed, 01 Jun 2016 23:34:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[FASMA Podcast #04 - Sawf by FASMA Festival]]></title>
             <description><![CDATA[<article><h1>FASMA Podcast #04 - Sawf by FASMA Festival</h1><p>Sawf is, without a doubt, Greece's most prolific techno dj and producer. A musician of rare caliber mixing pretty much anything yet retaining his personal signature at all times. He will be closing the festival blasting apart anything still standing wrecking what is left of Vyrsodepsio on Saturday April the 9th.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/12d8ca4be93e8e8064ff809062918006c7d3b761.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://straylandings.co.uk/interviews/minimal-variations-nicola-ratti-interview</link>
             <guid isPermaLink="false">e2eed00a-f0eb-44fa-9e1d-528b92802905</guid>
             <pubDate>Wed, 01 Jun 2016 23:20:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[FASMA Festival]]></title>
-            <description><![CDATA[<article><h1>FASMA Festival</h1><p>FASMA ("φάσμα"~fásma) is the greek word for spectrum, i.e. a condition that can be limited to a specific set of values but can also vary infinitely within a continuum. FASMA festival is a collective attempt to show the prism within which today's music manifests itself.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5575b48db4e41b24bac35e27fc39e20ac8587f77.jpg"></article>]]></description>
-            <link>https://soundcloud.com/fasma-festival</link>
-            <guid isPermaLink="false">4aae9958-e8a9-418f-b690-fcebf491bfce</guid>
-            <pubDate>Wed, 01 Jun 2016 23:20:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
