@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[FASMA Festival]]></title>
         <description><![CDATA[FASMA Festival]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/fasma-festival/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 01 Jun 2016 23:01:52 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 01 Jun 2016 23:05:22 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/fasma-festival/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Fasma Festival 07.04 - 09.04.2016 Athens]]></title>
+            <description><![CDATA[<article><h1>Fasma Festival 07.04 - 09.04.2016 Athens</h1><p>Fasma Festival 07.04 - 09.04.2016 Athens, Α festival for today's music and digital arts spanned around the Historical Center of Athens</p><img src="http://www.fasmafestival.com/images/static/Fasma_web_banner.png"></article>]]></description>
+            <link>http://www.fasmafestival.com/</link>
+            <guid isPermaLink="false">62c723c7-0ed0-419a-91a7-b16e9f307ad5</guid>
+            <pubDate>Wed, 01 Jun 2016 23:04:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/efee1334-2b16-49bd-95d0-4a7ed4c38529.png">]]></description>
-            <link>undefinedbcdacec4-b42f-4d9d-be99-d9c368b6a290/index.html</link>
+            <link>https://thegrid.ai/fasma-festival/bcdacec4-b42f-4d9d-be99-d9c368b6a290/index.html</link>
             <guid isPermaLink="false">bcdacec4-b42f-4d9d-be99-d9c368b6a290</guid>
             <pubDate>Wed, 01 Jun 2016 23:01:51 GMT</pubDate>
         </item>
