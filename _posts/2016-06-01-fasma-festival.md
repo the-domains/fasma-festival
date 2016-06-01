@@ -50,8 +50,8 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://soundcloud.com/fasma-festival'
 title: FASMA Festival
-datePublished: '2016-06-01T23:08:55.354Z'
-dateModified: '2016-06-01T23:08:50.442Z'
+datePublished: '2016-06-01T23:20:36.167Z'
+dateModified: '2016-06-01T23:10:13.941Z'
 starred: false
 sourcePath: _posts/2016-06-01-fasma-festival.md
 inFeed: true
