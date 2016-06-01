@@ -4,7 +4,7 @@
         <description><![CDATA[FASMA Festival]]></description>
         <link>https://thegrid.ai/fasma-festival/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 01 Jun 2016 23:35:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jun 2016 23:35:25 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/fasma-festival/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Kyklophonon_I]]></title>
@@ -42,6 +42,13 @@
             <pubDate>Wed, 01 Jun 2016 23:34:33 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Nicola Ratti - Elbow]]></title>
+            <description><![CDATA[<article><h1>Nicola Ratti - Elbow</h1><p>https://wheretonow.bandcamp.com/album/wounded-boys Nicola Ratti 'Elbow', taken from the Cassette 'Wounded Boys' on Where To Now? Records. October 2015.</p></article>]]></description>
+            <link>https://www.youtube.com/watch?v=Y5AKmjmNMk4</link>
+            <guid isPermaLink="false">7d945d08-589b-4921-961d-e68b146c4771</guid>
+            <pubDate>Wed, 01 Jun 2016 23:34:31 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The Quietus | News | INTERVIEW: Kondaktor On Fasma Festival]]></title>
             <description><![CDATA[<article><h1>The Quietus | News | INTERVIEW: Kondaktor On Fasma Festival</h1><p>A few weeks ago I attended Bloc, a UK techno festival hosted at the Butlins resort in Minehead, with an at-times chaotic relationship with its audience. As much respect and adoration as I have for many of the artists that were on the billing, the event ended up feeling rather stale in some respects.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0ddfe9fccfea3ad0d292574a4d622ddf7c132cd5.jpg"></article>]]></description>
             <link>http://thequietus.com/articles/20002-kondaktor-fasma-festival-interview</link>
@@ -68,13 +75,6 @@
             <link>http://www.ursss.com/2016/04/jesse-osborne-lanthier/</link>
             <guid isPermaLink="false">e6e6a5d5-c472-4bd8-8c5b-2e5d7334534a</guid>
             <pubDate>Wed, 01 Jun 2016 23:24:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Minimal Variations: Nicola Ratti Interview]]></title>
-            <description><![CDATA[<article><h1>Minimal Variations: Nicola Ratti Interview</h1><p>Stray Landings is an electronic music site dedicated to bringing to light the best in forward thinking new producers. We will regularly be reviewing tracks we feel stand out as original, unique and deserving of more attention. We will also be providing guest podcasts to showcase new music, interviews with upcoming artists and articles on current issues within the scene.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2fd5f2dd1f8dc11acbfad51f6bee4b73199bf6ff.jpg"></article>]]></description>
-            <link>http://straylandings.co.uk/interviews/minimal-variations-nicola-ratti-interview</link>
-            <guid isPermaLink="false">e2eed00a-f0eb-44fa-9e1d-528b92802905</guid>
-            <pubDate>Wed, 01 Jun 2016 23:20:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
