@@ -1,14 +1,14 @@
 layout_spectrum: 0.6757680138107389
 typography_spectrum: 0.1985412030480802
 color:
-  brandStrength: 0.719757987651974
-  lightness: 0.27476816764101386
-  saturation: 0.2112290218938142
-  rhythmicContrast: 0.5059276251122355
+  brandStrength: 0.6221939893439412
+  lightness: 0.1549895687494427
+  saturation: 0.5240591664332896
+  rhythmicContrast: 0.6254104138351977
   brandColors:
-    - '#E6E2AF'
-    - '#A7A37E'
-    - '#EFECCA'
-    - '#046380'
-    - '#002F2F'
+    - '#B4AF91'
+    - '#787746'
+    - '#40411E'
+    - '#32331D'
+    - '#C03000'
 name: FASMA Festival
